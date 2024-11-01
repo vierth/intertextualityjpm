@@ -1,0 +1,24 @@
+{
+    "params": {
+        "seed_length": 4,
+        "similarity_threshold": 0.8,
+        "match_length": 10,
+        "max_comparisons": 100
+    },
+    "files": {
+        "texts_to_analyze": "analysis_files.txt",
+        "corpus_composition": null,
+        "data_file": "corpus.pickle",
+        "index_file": null,
+        "corpus_text_length_file": "corpus_text_lengths.txt",
+        "completed_files": "completed_files.txt"
+    },
+    "paths": {
+        "result_directory": "results"
+    },
+    "run_settings": {
+        "max_child_tasks": 150,
+        "front_load": false,
+        "clear_history": true
+    }
+}

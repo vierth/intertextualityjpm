@@ -1,0 +1,9 @@
+{
+    "params": {
+        "score_limit": 100
+    },
+    "files": {
+        "input_file": "corpus_results.txt",
+        "output_file": "edgetable.csv"
+    }
+}

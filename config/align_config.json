@@ -1,0 +1,15 @@
+{
+    "params": {
+        "alignment_docs": null,
+        "match_score": 1,
+        "misalign_score": -1,
+        "mismatch_score": -1,
+        "chunk_limit": 200,
+        "overlap": 10,
+        "range_match": 6
+    },
+    "files": {
+        "input_file": "jpm_results.txt",
+        "output_file": "jpm_alignment.txt"
+    }
+}

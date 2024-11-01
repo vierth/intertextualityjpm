@@ -1,0 +1,17 @@
+{
+    "params": {
+        "filter_common": false,
+        "short_quote_length": 20,
+        "common_repetition_min": 400,
+        "filter_similar": false,
+        "similarity_threshold": 0.6,
+        "limit_similarity_check": true,
+        "limit_extent": 2
+    },
+    "files": {
+        "output_file": "jpm_results.txt"
+    },
+    "paths": {
+        "quote_result_corpus_folder": "results"
+    }
+}

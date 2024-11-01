@@ -1,0 +1,10 @@
+{
+    "params": {
+        "comparison_texts": []
+    },
+    "files": {
+        "length_file": "corpus_text_lengths.txt",
+        "alignment_file": "corpus_alignment.txt",
+        "output_file": "edge_data.js"
+    }
+}

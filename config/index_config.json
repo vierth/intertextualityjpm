@@ -1,0 +1,9 @@
+{
+    "params": {
+        "seed_length": 4
+    },
+    "files": {
+        "data_file": "corpus.pickle",
+        "index_file": "index.db"
+    }
+}

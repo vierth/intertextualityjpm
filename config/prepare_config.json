@@ -1,0 +1,14 @@
+{
+    "params": {
+        "characters_to_remove": [],
+        "remove_whitespace": false,
+        "simplify": false
+    },
+    "files": {
+        "output_file": "corpus.pickle",
+        "content_meta": "files_in_corpus.txt"
+    },
+    "paths": {
+        "input_folders": ["../../vierthcorpus/simp"]
+    }
+}
